@@ -1,0 +1,2 @@
+# ISP-PORTAL
+To help different individuals which are on different region across Tanzania. Since there comes some of the difficultness in helping them identify a proper ISP. As this comes as a critical issue concerning the different Business organization In Providing the Networking infrastructure and services to its sub branches. But we know there's a better way to provide the support. That's why we've created a portal to Help differnt Organization to proper select the proper ISP.
